@@ -1,0 +1,1 @@
+# Latihan-MEAN-MEDIAN-pengaruh-nilai-Ekstrim
